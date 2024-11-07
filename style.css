@@ -1,0 +1,115 @@
+* body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width: 1440px;
+    height: 68px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 18px;
+}
+
+.navbar img{
+margin-left: 100px;
+margin-top: 6px;
+}
+
+.option{
+    display: flex;
+    width: 811px;
+    height: 68px;
+    margin-left: 180px;
+}
+
+.option ul{
+    display: flex;
+   
+}
+.option ul li{
+   padding-left: 48px;
+   margin-top: 20px;
+   list-style-type: none;
+   text-decoration: none;
+   
+}
+
+.option ul li a{
+
+    text-decoration: none;
+    font-family: Space Grotesk;
+    color: black;
+    font-size: 18px;
+    
+ }
+
+ .option  Button{
+    margin-left: 80px;
+    width: 150px;
+    height: 68px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-family: Space Grotesk;
+    color: black;
+    font-size: 20px;
+   
+}
+
+.bodys{
+    display: flex;
+    margin-top: 138px;
+    padding-left: 100px;
+}
+
+.info h1{
+    font-size: 60px;
+    font-family: Space Grotesk;
+}
+.info p{
+    font-size: 20px;
+    font-family: Space Grotesk;
+    margin-top: 5px;
+}
+.info Button{
+    width: 264px;
+    height: 68px;
+    border-radius: 20px;
+    background-color: black;
+    color: whitesmoke;
+    border-color:black;
+    font-size: 20px;
+}
+
+.bodys img{
+    margin-left: 200px;
+    margin-top: 20px;
+    padding-left: 100px;
+}
+.image{
+    padding-left: 80px;
+    margin-top: 20px;
+}
+.image img{
+    margin-left: 80px;
+    
+}
+
+.case{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 100px;
+}
+.green{
+    background-color: greenyellow;
+    width: 265px;
+    height: 51px;
+}
+.green h1{
+margin-top: -1.5px;
+margin-left: 50px;
+}
+.case p{
+    margin-left: 30px;
+    margin-top: -1.5px;
+}
